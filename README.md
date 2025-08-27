@@ -1,11 +1,6 @@
-Perfect ✅ — here’s a **professional README.md** you can use for your GitHub repo.
-I made it SEO-friendly, clean, and student-project–friendly. You can copy this into a file named **`README.md`** in your project root.
-
----
-
 # 🌤️ Android Weather & Air Quality App
 
-An **Android app built in Java** for **Lab 4** that displays:
+An **Android app built in Java** that displays:
 
 * 📅 **4-day hourly weather forecast** (Karachi)
 * 🌍 **Real-time Air Quality Index (AQI)** (Karachi)
@@ -13,6 +8,10 @@ An **Android app built in Java** for **Lab 4** that displays:
 * 🔀 **Navigation widget** to switch between activities
 
 This project uses **free public APIs** (no signup required).
+
+## 📸 Screenshots
+<img width="3780" height="1890" alt="Your paragraph text" src="https://github.com/user-attachments/assets/ed183123-e707-4971-a846-6daf040598c1" />
+
 
 ---
 
@@ -26,7 +25,7 @@ This project uses **free public APIs** (no signup required).
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** Java
 * **Framework:** Android SDK
@@ -38,7 +37,7 @@ This project uses **free public APIs** (no signup required).
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -50,7 +49,7 @@ This project uses **free public APIs** (no signup required).
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/android-weather-airquality-app.git
+git clone https://github.com/Nawal-Shahid/android-weather-airquality-app
 
 # Open project in Android Studio
 # Let Gradle sync automatically
@@ -63,7 +62,7 @@ git clone https://github.com/your-username/android-weather-airquality-app.git
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 app/src/main/java/com/example/lab4app/
@@ -79,20 +78,9 @@ app/src/main/res/layout/
  └── activity_air_quality.xml
 ```
 
----
 
-## 📸 Screenshots (Optional)
 
-*Add screenshots here once you run your app.*
-Example:
-
-| Splash Screen               | Main Menu                 | Weather Screen               | Air Quality Screen       |
-| --------------------------- | ------------------------- | ---------------------------- | ------------------------ |
-| ![](screenshots/splash.png) | ![](screenshots/main.png) | ![](screenshots/weather.png) | ![](screenshots/air.png) |
-
----
-
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 * ✅ Integrating **REST APIs** in Android.
 * ✅ Handling **AsyncTask** for networking.
@@ -112,5 +100,3 @@ Example:
 This project is for **educational purposes** (Lab assignment). Feel free to fork, modify, and improve.
 
 ---
-
-👉 Do you also want me to **add a code snippet in README** showing the weather API call (so visitors see an example right away)?

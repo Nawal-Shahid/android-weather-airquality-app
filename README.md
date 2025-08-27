@@ -2,10 +2,10 @@
 
 An **Android app built in Java** that displays:
 
-* 📅 **4-day hourly weather forecast** (Karachi)
-* 🌍 **Real-time Air Quality Index (AQI)** (Karachi)
-* 🚀 **Splash screen** as app launcher
-* 🔀 **Navigation widget** to switch between activities
+* **4-day hourly weather forecast** (Karachi)
+* **Real-time Air Quality Index (AQI)** (Karachi)
+* **Splash screen** as app launcher
+* **Navigation widget** to switch between activities
 
 This project uses **free public APIs** (no signup required).
 
@@ -15,7 +15,7 @@ This project uses **free public APIs** (no signup required).
 
 ---
 
-## 📱 Features
+## Features
 
 * **Weather Screen** → Fetches and shows hourly forecast for 4 days (Karachi).
 * **Air Quality Screen** → Fetches live AQI values for Karachi.
@@ -89,13 +89,13 @@ app/src/main/res/layout/
 
 ---
 
-## 📌 Tags
+## Tags
 
 `android` `java` `weather` `air-quality` `open-source` `student-project` `karachi` `mobile-app` `android-studio` `api-integration`
 
 ---
 
-## 📜 License
+## License
 
 This project is for **educational purposes** (Lab assignment). Feel free to fork, modify, and improve.
 
